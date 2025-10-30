@@ -1,0 +1,2 @@
+# Artifacts
+See https://github.com/ebreitmo/LinkedInLearningGitHubActions/tree/main/ch2_selecting_and_using_actions/02_07_challenge_develop_a_workflow_that_creates_artifacts
